@@ -16,7 +16,7 @@ terraform {
     }
     pkcs12 = {
       source  = "chilicat/pkcs12"
-      version = "0.0.7"
+      version = "0.1.0"
     }
     panos = {
       source  = "PaloAltoNetworks/panos"
